@@ -52,7 +52,7 @@ requests>=2.28.0
 ```bash
 DB_CONFIG = {
     "host": "your_host",
-    "database": "your_hDB",
+    "database": "your_DB",
     "user": "your_user",
     "password": "your_password",
     "port": "your_port"
